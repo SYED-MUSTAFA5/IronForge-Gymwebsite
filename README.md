@@ -46,5 +46,5 @@ IronForge is a fully responsive landing page built using **React** and **Tailwin
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the repository
-```sh
+```
 git clone https://github.com/SYED-MUSTAFA5/IronForge-Gymwebsite.git
