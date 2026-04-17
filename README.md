@@ -38,15 +38,8 @@ IronForge is a responsive landing page built with **React** and **Tailwind CSS**
 │   └── main.jsx     # Entry point
 ├── .gitignore       # Files excluded from Git
 └── tailwind.config.js # Custom styling configurations
-## ⚙️ Getting Started
-
----
-
-### Prerequisites
-Make sure you have **Node.js** installed on your computer.
-
 ### Setup & Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/SYED-MUSTAFA5/IronForge-Gymwebsite](https://github.com/SYED-MUSTAFA5/IronForge-Gymwebsite)
+   git clone [https://github.com/SYED-MUSTAFA5/IronForge-Gymwebsite.git](https://github.com/SYED-MUSTAFA5/IronForge-Gymwebsite.git)
