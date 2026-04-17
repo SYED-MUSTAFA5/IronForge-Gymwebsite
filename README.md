@@ -38,7 +38,8 @@ IronForge is a responsive landing page built with **React** and **Tailwind CSS**
 │   └── main.jsx     # Entry point
 ├── .gitignore       # Files excluded from Git
 └── tailwind.config.js # Custom styling configurations
-### Setup & Installation
+
+## **Setup & Installation**
 
 1. **Clone the repository:**
    ```bash
