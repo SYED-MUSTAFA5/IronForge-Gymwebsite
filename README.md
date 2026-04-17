@@ -28,16 +28,17 @@ IronForge is a fully responsive landing page built using **React** and **Tailwin
 - **Icons:** Lucide React / React Icons
 
 ---
+### 📂 Project Structure
 
-## 📂 Project Structure
-├── public/ # Static assets (images, favicon)
+```text
+├── public/          # Static assets (images, favicon)
 ├── src/
-│ ├── assets/ # Gym-related images and icons
-│ ├── components/ # Reusable UI components (Navbar, Hero, Plans, etc.)
-│ ├── App.jsx # Main app layout
-│ └── main.jsx # Entry point
-├── .gitignore # Files ignored by Git
-└── tailwind.config.js # Tailwind custom configuration
+│   ├── assets/      # Gym-related images and icons
+│   ├── components/  # Reusable UI parts (Navbar, Hero, Plans)
+│   ├── App.jsx      # Main application layout
+│   └── main.jsx     # Entry point
+├── .gitignore       # Files excluded from Git
+└── tailwind.config.js # Custom styling configurations
 
 ---
 
@@ -47,9 +48,3 @@ IronForge is a fully responsive landing page built using **React** and **Tailwin
 ```sh
 git clone https://github.com/SYED-MUSTAFA5/IronForge-Gymwebsite.git
 
-2. Install dependencies
-npm install
-3. Start the development server
-npm run dev
-4. Open in browser
-http://localhost:5173
